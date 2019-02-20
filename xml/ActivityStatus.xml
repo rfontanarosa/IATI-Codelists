@@ -13,6 +13,7 @@
             <name>
                 <narrative>Pipeline/identification</narrative>
                 <narrative xml:lang="fr">Planification</narrative>
+                <narrative xml:lang="it">Allo studio</narrative>
             </name>
             <description>
                 <narrative>The activity is being scoped or planned </narrative>
@@ -23,6 +24,7 @@
             <name>
                 <narrative>Implementation</narrative>
                 <narrative xml:lang="fr">Actif</narrative>
+                <narrative xml:lang="it">Implementazione</narrative>
             </name>
             <description>
                 <narrative>The activity is currently being implemented</narrative>
@@ -33,6 +35,7 @@
             <name>
                 <narrative>Completion</narrative>
                 <narrative xml:lang="fr">Finalisation</narrative>
+                <narrative xml:lang="it">Completato</narrative>
             </name>
             <description>
                 <narrative>Physical activity is complete or the final disbursement has been made.</narrative>
@@ -43,6 +46,7 @@
             <name>
                 <narrative>Post-completion</narrative>
                 <narrative xml:lang="fr">Fermé</narrative>
+                <narrative xml:lang="it">Verifiche post completamento</narrative>
             </name>
             <description>
                 <narrative>Physical activity is complete or the final disbursement has been made, but the activity remains open pending financial sign off or M&amp;E</narrative>
@@ -53,6 +57,7 @@
             <name>
                 <narrative>Cancelled</narrative>
                 <narrative xml:lang="fr">Annulé</narrative>
+                <narrative xml:lang="it">Cancellato</narrative>
             </name>
             <description>
                 <narrative>The activity has been cancelled</narrative>
@@ -63,6 +68,7 @@
             <name>
                 <narrative>Suspended</narrative>
                 <narrative xml:lang="fr">Suspendu</narrative>
+                <narrative xml:lang="it">Sospeso</narrative>
             </name>
             <description>
                 <narrative>The activity has been temporarily suspended</narrative>
